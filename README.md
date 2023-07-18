@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi welcome 👋
 ![Developer](https://github.com/sinanbalibey/sinanbalibey/blob/main/FSvVfl0XEAEpDrY.jpeg)
 I'm Sinan from Turkiye. I am currently a Software Engineering student at Fırat University.My job just  run the hardware. Only this. Of course, for this, I apply and learn the most up-to-date technology and techniques. You can check out my social media https://www.linkedin.com/in/sinan-bal%C4%B1bey-1a2221121/ or https://twitter.com/Sinan_Balibey 
 
