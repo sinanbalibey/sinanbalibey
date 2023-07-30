@@ -1,4 +1,4 @@
-![Developer](https://github.com/sinanbalibey/sinanbalibey/blob/main/FSvVfl0XEAEpDrY.jpeg)
+![Developer](https://github.com/sinanbalibey/jpg/blob/main/indir.jpeg)
 <h1 align="center">Hi 👋, I'm Sinan Balibey</h1>
 <h3 align="center">A Turkish developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
