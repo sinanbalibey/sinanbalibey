@@ -108,4 +108,5 @@
 <br />
 
 ----
-https://github.com/sinanbalibey/sinanbalibey/blob/main/FSvVfl0XEAEpDrY.jpeg
+<img src="[url](https://github.com/sinanbalibey/sinanbalibey/blob/main/FSvVfl0XEAEpDrY.jpeg)" alt="xd">
+
